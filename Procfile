@@ -1,1 +1,1 @@
-web: streamlit run app.py --server.port process.env.PORT || 5000
+web: streamlit run app.py --server.port 8501
